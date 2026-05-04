@@ -1,0 +1,25 @@
+title: Busola Ogundimu
+description: MPhil Machine Learning & Machine Intelligence, University of Cambridge
+url: "https://Olubusolami-R.github.io"
+baseurl: ""
+
+author:
+  name: Busola Ogundimu
+  email: ""
+  twitter: ""
+  github: Olubusolami-R
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - README.md
